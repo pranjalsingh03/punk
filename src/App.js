@@ -22,6 +22,7 @@ const App = () => {
 
   return (
     <div>
+      <a className='made-by' href="https://github.com/pranjalsingh03">Made by Pranjal singh</a>
       <div className="search-bar">
         <input
           type="text"

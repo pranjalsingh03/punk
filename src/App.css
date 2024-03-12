@@ -110,6 +110,15 @@
   background-color: #0056b3;
 }
 
+.made-by{
+  padding: 5px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  background-color: #282c34;
+  color: white;
+}
+
 @media (max-width: 768px) {
   .search-container {
     flex-direction: column;
